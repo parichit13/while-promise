@@ -1,0 +1,23 @@
+{
+  "name": "while-promise",
+  "version": "1.0.0",
+  "description": "Asynchronous while loop for promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R nyan test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parichit13/while-promise.git"
+  },
+  "author": "Parichit <parichit.kumark@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parichit13/while-promise/issues"
+  },
+  "homepage": "https://github.com/parichit13/while-promise#readme",
+  "devDependencies": {
+    "bluebird": "^3.3.5",
+    "mocha": "^2.4.5"
+  }
+}
