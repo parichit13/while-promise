@@ -7,7 +7,7 @@ while-promise is an Asynchronous while loop solution for bluebird Promises.
 You need Gulp installed globally:
 
 ```sh
-$ npm install while-promises --save
+$ npm install while-promise --save
 ```
 
 ## Usage
